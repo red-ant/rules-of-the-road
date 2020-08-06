@@ -1,9 +1,4 @@
----
-layout: default
-title: Red Ant Rules of the Road
-date: 2016-11-29 13:32:10 +1100
-permalink: https://github.com/red-ant/rules-of-the-road/blob/master/rules.md
----
+
 
 # Red Ant Rules of the Road
 
