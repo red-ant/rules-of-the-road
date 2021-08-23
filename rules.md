@@ -23,7 +23,7 @@ We approach our work with a pragmatic Agile approach.  Agile has been adopted wo
 This means your project will be broken into Sprints - that are blocks of time (usually 1 or 2 weeks) with a specific goal to be achieved based on the information available to us when work commenced. 
 
 
-The goals, time estimates and cost of each Sprint will be detailed in the SOW. These goals, time estimates and costs may vary as each Sprint progresses as a result of new information becoming available to Red Ant. At the end of each Sprint therefore, we will review progress, discuss and necessary changes or new information, and plan the goals for the next Sprint. One purpose of having this regular Sprint discussion is to review achievements, time estimates and time spent in light of progress and any new information.   
+The goals, time estimates and cost of each Sprint will be detailed in the SOW. These goals, time estimates and costs may vary as each Sprint progresses as a result of new information becoming available to Red Ant. At the end of each Sprint therefore, we will review progress, discuss any necessary changes or new information, and plan the goals for the next Sprint. One purpose of having this regular Sprint discussion is to review achievements, time estimates and time spent in light of progress and any new information.   
 
 
 ## 3. Communication
@@ -98,7 +98,7 @@ Just as we plan and allocate development time to writing code for the initial wo
 
 To be clear: the work involved in addressing bugs doesn’t come free. As a basic guide, we normally allocate about 10-15% of the development budget for this. We’re also working within your project budget. If extra work is required, this will cost more.
 
-Our work will be of high quality and if we will warrant that what we will deliver will be of a suitably high standard. Here are three (hypothetical) examples to cover common scenarios: 
+Our work will be of high quality and we will warrant that what we will deliver will be of a suitably high standard. Here are three (hypothetical) examples to cover common scenarios: 
 
 Background: In your project, you need a button that turns red when a user clicks it.
 
@@ -106,7 +106,7 @@ Example 1: We estimated time to build and test the button, and our actual effort
 
 This is something we'll fix at no cost.
 
-Example 2: we have created the Red Button feature, and your team starts using it. They discover if you click on it really quickly five times, it stops working. This is a bug, but isn't a scenario we hadn't anticipated or tested for, and work is required to address this. This is not free - additional development time is needed. 
+Example 2: we have created the Red Button feature, and your team starts using it. They discover if you click on it really quickly five times, it stops working. This is a bug, but isn't a scenario we had anticipated or tested for, and work is required to address this. This is not free - additional development time is needed. 
 
 Example 3: we have created the Red Button feature, and when your team starts using it they realise that after the first click, the button will always be red. No one had thought about what should happen after you click. Perhaps someone on your team had an expectation that the button would automatically turn itself off again after a period of time. Perhaps you feel that this was really obvious that it should turn off again. But remember that hindsight is a wonderful thing. This could also be described as a bug, but the work to make it turn off again automatically isn't free.
 
