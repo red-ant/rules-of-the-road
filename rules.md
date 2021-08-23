@@ -106,7 +106,7 @@ Example 1: We estimated time to build and test the button, and our actual effort
 
 This is something we'll fix at no cost.
 
-Example 2: we have created the Red Button feature, and your team starts using it. They discover if you click on it really quickly five times, it stops working. This is a bug, but isn't a scenario we hadn't anticipated or tested for, and work is required to address this. This is not free - additional development time is needed. 
+Example 2: we have created the Red Button feature, and your team starts using it. They discover if you click on it really quickly five times, it stops working. This is a bug, but isn't a scenario we had anticipated or tested for, and work is required to address this. This is not free - additional development time is needed. 
 
 Example 3: we have created the Red Button feature, and when your team starts using it they realise that after the first click, the button will always be red. No one had thought about what should happen after you click. Perhaps someone on your team had an expectation that the button would automatically turn itself off again after a period of time. Perhaps you feel that this was really obvious that it should turn off again. But remember that hindsight is a wonderful thing. This could also be described as a bug, but the work to make it turn off again automatically isn't free.
 
